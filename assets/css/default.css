@@ -29,9 +29,9 @@ header{
 main .content{
     background-color: white;
     border-radius: 25px;
-    width: 75%;
-    margin-left:12.5%;
-    margin-right:12.5%;
+    width: 60%;
+    margin-left:20%;
+    margin-right:20%;
     padding: 25px;
     min-height: 50vh;
 }
