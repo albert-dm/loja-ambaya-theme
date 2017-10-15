@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Ambaya'; /*a name to be used later*/
+    src: url('../fonts/café & brewery 2.0.ttf'); /*URL to font*/
+}
+*{
+    font-family: 'Verdana';
+}
+h1, h2, h3, h4, h5, .font-ambaya{
+    font-family: 'Ambaya';
+}
+
+body{
+    background-image: url("../img/background.png"); 
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header{
+    text-align: center;
+}
+
+#top-logo{
+    width: 30%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+main .content{
+    background-color: white;
+    border-radius: 25px;
+    width: 75%;
+    margin-left:12.5%;
+    margin-right:12.5%;
+    padding: 25px;
+    min-height: 50vh;
+}
